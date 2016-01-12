@@ -1,0 +1,2 @@
+# MXDownLoader
+这个是NSURLSession的使用,NSURLSession 是苹果为我们提供的一套新的网络处理库,在某种程度上,这个已经已经和诸如 AFNetworking 这些第三方库没有太多差别了.使用NSURLSession实现下载文件和断电下载也只是最基本的使用
